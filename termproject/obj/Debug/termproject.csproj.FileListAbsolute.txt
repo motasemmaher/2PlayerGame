@@ -1,0 +1,16 @@
+D:\Work\Visual Programming\termproject\termproject\bin\Debug\termproject.exe.config
+D:\Work\Visual Programming\termproject\termproject\bin\Debug\termproject.exe
+D:\Work\Visual Programming\termproject\termproject\bin\Debug\termproject.pdb
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.csprojAssemblyReference.cache
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.ChoosePlayers.resources
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.CreateProfile.resources
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.CurrentProfiles.resources
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.History.resources
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.MainMenu.resources
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.PlayForm.resources
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.Properties.Resources.resources
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.Stats.resources
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.csproj.GenerateResource.cache
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.csproj.CoreCompileInputs.cache
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.exe
+D:\Work\Visual Programming\termproject\termproject\obj\Debug\termproject.pdb
